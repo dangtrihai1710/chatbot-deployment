@@ -11,10 +11,10 @@
         "Good day"
       ],
       "responses": [
-        "Hey :-)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hey : ngu",
+        "lgbt",
+        "nguvl?",
+        "Hi ngu?"
       ]
     },
     {
@@ -78,6 +78,17 @@
       "responses": [
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
+      ]
+    },    {
+      "tag": "ngu",
+      "patterns": [
+        "lgbt!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "gay.",
+        "dam."
       ]
     }
   ]
